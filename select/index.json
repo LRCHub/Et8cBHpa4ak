@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "南無阿弥陀仏",
+  "base_artist": "唾奇",
+  "createdAt": "2026-02-11T16:30:13.619300Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "南無阿弥陀仏",
+      "artist": "唾奇",
+      "has_synced": false,
+      "path": "select/pl_01_南無阿弥陀仏_唾奇.txt"
+    }
+  ]
+}
